@@ -1,6 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^7.0.0",
@@ -12,11 +13,12 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+  "start": "react-scripts start",
+  "build": "CI=false react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
   },
+
   "eslintConfig": {
     "extends": [
       "react-app",
