@@ -26,6 +26,13 @@ const Achievements = () => {
 
   const certifications = [
     {
+  icon: "fas fa-certificate",
+  title: "Data Structures and Algorithms",
+  description: "Smart Interviews Certification with advanced problem-solving techniques and algorithm optimization.",
+  link: "https://smartinterviews.in/certificate/d89ad1b2"
+},
+
+    {
       icon: "fab fa-html5",
       title: "Web Development Internship",
       description: "During my web development internship at PATH CREATORS, I gained hands-on experience in designing and building responsive and dynamic web applications. I worked on real-world projects where I developed front-end interfaces using HTML, CSS, JavaScript, and Bootstrap, and implemented backend logic using Java, JSP, Servlets, and MySQL.",
