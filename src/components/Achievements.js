@@ -25,25 +25,28 @@ const Achievements = () => {
   ];
 
   const certifications = [
-    {
+//     
+  {
   icon: "fas fa-certificate",
   title: "Data Structures and Algorithms",
-  description: "Smart Interviews Certification with advanced problem-solving techniques and algorithm optimization.",
+  description: "Smart Interviews Certification where I developed advanced problem-solving skills, learned efficient algorithm design, and optimized solutions to tackle complex coding challenges.",
   link: "https://smartinterviews.in/certificate/d89ad1b2"
 },
 
-    {
-      icon: "fab fa-html5",
-      title: "Web Development Internship",
-      description: "During my web development internship at PATH CREATORS, I gained hands-on experience in designing and building responsive and dynamic web applications. I worked on real-world projects where I developed front-end interfaces using HTML, CSS, JavaScript, and Bootstrap, and implemented backend logic using Java, JSP, Servlets, and MySQL.",
-      link: "https://drive.google.com/file/d/1qBI8A_B5YUqsJe87YdRmeSi0NJgGiT8I/view?usp=drive_link"
-    },
-    {
-      icon: "fab fa-python",
-      title: "Datascience and MachineLearning Internship",
-      description: "During my internship with YBI Foundation, I gained practical exposure to the core concepts of Data Science and Machine Learning by working on hands-on projects, real datasets, and problem-solving tasks. I developed models and performed data analysis using Python and essential libraries, building a strong foundation in both theoretical and applied machine learning.",
-      link: "https://drive.google.com/file/d/1iAd-IcoOi7iCufQCWrJ8Kepy-hjUW8Qo/view?usp=drive_link"
-    }
+{
+  icon: "fab fa-html5",
+  title: "Web Development Internship",
+  description: "Internship at PATH CREATORS where I built responsive and dynamic web applications, designed front-end interfaces using HTML, CSS, JavaScript, and Bootstrap, and implemented backend logic with Java, JSP, Servlets, and MySQL.",
+  link: "https://drive.google.com/file/d/1qBI8A_B5YUqsJe87YdRmeSi0NJgGiT8I/view?usp=drive_link"
+},
+
+{
+  icon: "fab fa-python",
+  title: "Data Science and Machine Learning Internship",
+  description: "Internship with YBI Foundation where I worked on real datasets, applied Python libraries, and built predictive models, gaining practical exposure to data analysis, machine learning algorithms, and real-world problem-solving techniques.",
+  link: "https://drive.google.com/file/d/1iAd-IcoOi7iCufQCWrJ8Kepy-hjUW8Qo/view?usp=drive_link"
+}
+
   ];
 
   return (
