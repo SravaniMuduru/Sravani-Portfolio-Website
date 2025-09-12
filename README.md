@@ -38,22 +38,22 @@ Check out the live website here: [My Portfolio Live](https://sravani-portfolio-w
 ![Home](public/assets/home.png)
 
 ### About
-![About](public/assets/about.png)
+![About](my-portfolio/public/assets/about.png)
 
 ### Skills
-![Skills](public/assets/skills.png)
+![Skills](my-portfolio/public/assets/skills.png)
 
 ### Education
-![Education](public/assets/education.png)
+![Education](my-portfolio/public/assets/education.png)
 
 ### Certification
-![Certification](public/assets/certifications.png)
+![Certification](my-portfolio/public/assets/certifications.png)
 
 ### Contact
-![Contact](public/assets/contact.png)
+![Contact](my-portfolio/public/assets/contact.png)
 
 ### Projects
-![Projects](public/assets/projects.png)
+![Projects](my-portfolio/public/assets/projects.png)
 
 ---
 
