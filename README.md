@@ -35,7 +35,7 @@ Check out the live website here: [My Portfolio Live](https://sravani-portfolio-w
 ## 🖼 Screenshots
 
 ### Home
-![Home](public/assets/home.png)
+![Home](public/assets/home page.png)
 
 ### About
 ![About](my-portfolio/public/assets/about.png)
