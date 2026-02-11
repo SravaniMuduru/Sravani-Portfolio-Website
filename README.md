@@ -35,25 +35,25 @@ Check out the live website here: [My Portfolio Live](https://sravani-portfolio-w
 ## 🖼 Screenshots
 
 ### Home
-![Home](public/assets/home page.png)
+![Home](public/assets/home.png)
 
 ### About
-![About](my-portfolio/public/assets/about.png)
+![About](public/assets/about.png)
 
 ### Skills
-![Skills](my-portfolio/public/assets/skills.png)
+![Skills](public/assets/skills.png)
 
 ### Education
-![Education](my-portfolio/public/assets/education.png)
+![Education](public/assets/education.png)
 
 ### Certification
-![Certification](my-portfolio/public/assets/certifications.png)
+![Certification](public/assets/certifications.png)
 
 ### Contact
-![Contact](my-portfolio/public/assets/contact.png)
+![Contact](public/assets/contact.png)
 
 ### Projects
-![Projects](my-portfolio/public/assets/projects.png)
+![Projects](public/assets/projects.png)
 
 ---
 
@@ -75,7 +75,13 @@ Follow these steps to run the project locally:
        npm run build
 
 ---
-📫 Contact 
+
+## 📫 Contact 
+
    **Email:** [sravanimuduru207@gmail.com](mailto:sravanimuduru207@gmail.com) 
+   
    **LinkedIn:** [linkedin.com/in/sravani-muduru-596a712aa/](https://www.linkedin.com/in/sravani-muduru-596a712aa/) 
+   
    **GitHub:** [github.com/Sravanimuduru](https://github.com/SravaniMuduru) 
+
+   
