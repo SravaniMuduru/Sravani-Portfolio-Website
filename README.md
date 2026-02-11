@@ -63,15 +63,20 @@ Follow these steps to run the project locally:
 
    1. **Clone the repository**
 
-    ```bash
-  git clone https://github.com/SravaniMuduru/Sravani-Portfolio-Website.git
-  cd Sravani-Portfolio-Website
+      git clone https://github.com/SravaniMuduru/Sravani-Portfolio-Website.git
+  
+      cd Sravani-Portfolio-Website
 
    2. Install dependencies
+      
         npm install
+      
    3. Run the app
-        npm start
+
+       npm start
+      
    4. Build for production
+
        npm run build
 
 ---
